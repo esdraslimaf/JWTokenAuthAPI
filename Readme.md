@@ -1,4 +1,4 @@
-# Jason Web Token Authentication API
+# Json Web Token Authentication API
 O projeto se resume em uma API desenvolvida como parte de um processo de aprendizado, com o objetivo de aprimorar a compreensão e prática dos conceitos de autenticação e autorização baseados em Tokens JWT (JSON Web Tokens).
 A API foi construída utilizando a linguagem C# juntamente com a tecnologia ASP.NET e com o uso do Entity Framework. O projeto segue práticas e padrões de segurança para garantir a confiabilidade e a integridade dos dados.
 
